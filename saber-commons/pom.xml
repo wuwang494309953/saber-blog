@@ -11,5 +11,8 @@
 
     <artifactId>saber-commons</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>saber-base</module>
+    </modules>
 
 </project>
